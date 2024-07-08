@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\MiniProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\attendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\member task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\member task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\member task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\member task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\navigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\navigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|c:\\users\\dell\\source\\repos\\miniproject\\miniproject\\navigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70502E3B-73E8-42B7-BA84-48D9EA44F4C4}|MiniProject\\MiniProject.csproj|solutionrelative:miniproject\\navigate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Items.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Items.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Items.cs",
+              "RelativeToolTip": "MiniProject\\Items.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAMwDgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:01:06.457Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Member Task.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Member Task.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Member Task.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Member Task.cs",
+              "RelativeToolTip": "MiniProject\\Member Task.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAjwEgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:44:06.568Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Program.cs",
+              "RelativeToolTip": "MiniProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:37:41.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Attendence.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Attendence.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Attendence.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Attendence.cs",
+              "RelativeToolTip": "MiniProject\\Attendence.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAD4v1EAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:36:09.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Items.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Items.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Items.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Items.cs [Design]",
+              "RelativeToolTip": "MiniProject\\Items.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:59:48.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Attendence.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Attendence.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Attendence.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Attendence.cs [Design]",
+              "RelativeToolTip": "MiniProject\\Attendence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:53:20.012Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member Task.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Member Task.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Member Task.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Member Task.cs [Design]",
+              "RelativeToolTip": "MiniProject\\Member Task.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:42:30.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Navigate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Navigate.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Navigate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Navigate.cs",
+              "RelativeToolTip": "MiniProject\\Navigate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:38:00.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Navigate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Navigate.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Navigate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Navigate.cs [Design]",
+              "RelativeToolTip": "MiniProject\\Navigate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:37:06.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Form1.cs",
+              "RelativeDocumentMoniker": "MiniProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\MiniProject\\MiniProject\\Form1.cs [Design]",
+              "RelativeToolTip": "MiniProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T12:08:36.267Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
